@@ -43,4 +43,4 @@ Pakornz, pakornsudjit@gmail.com
 
 ## License
 
-React Native Login Screen is available under the MIT license. See the LICENSE file for more info.
+Pakornz is available under the MIT license. See the LICENSE file for more info.
