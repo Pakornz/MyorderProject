@@ -15,21 +15,21 @@
 
 # 🥳 MyOrder Project
 
-###### Installation!
+# Installation!
 
 ```js
 yarn install
 ```
 
-## For Android
+### For Android
 
 ```js
 yarn android
 ```
 
-## For IOS
+### For IOS
 
-# For IOS # need to pod install first.
+#### For IOS # need to pod install first.
 ```js
 cd ios && pod install
 ```
