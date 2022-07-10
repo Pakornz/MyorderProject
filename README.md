@@ -1,4 +1,4 @@
-<img alt="React Native Login Screen" src="src/assets/logo.png" width="1050"/>
+<img alt="React Native Login Screen" src="src/assets/logo.png" width="200"/>
 
 [![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/react-native-login-screen)
 
@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img alt="React Native Login Screen" src="src/assets/Screenshots/screen.png"  height="1050" width="600" />
+  <img alt="React Native Login Screen" src="src/assets/Screenshots/screen.png"  height="800" width="400" />
 </p>
 
 # 🥳 MyOrder Project
