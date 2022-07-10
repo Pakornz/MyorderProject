@@ -9,7 +9,7 @@
  */
 
 import React from 'react';
-import {View} from 'react-native';
+import {StatusBar, View} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import 'react-native-gesture-handler';
 import {createStackNavigator} from '@react-navigation/stack';
@@ -32,7 +32,8 @@ const App = () => {
   const [{apiKey}] = useAppContext();
 
   return (
-    <View style={{flex: 1, backgroundColor: 'green'}}>
+    <View style={{flex: 1}}>
+      <StatusBar hidden />
       <NavigationContainer ref={navigationRef}>
         {!apiKey ? (
           // Authentication Stack
